@@ -1,0 +1,1 @@
+26 Mar 2020 15:22:46 GMT: Log 'EclipseCompiler.txt' opened: 26 Mar 2020 15:22:46 GMT with name C:\Users\royan\eclipse-workspace\2020 coding\src\EclipseCompiler.txt
